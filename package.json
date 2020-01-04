@@ -1,0 +1,26 @@
+{
+  "name": "telegraf-esm",
+  "version": "1.0.0",
+  "description": "ESM wrapper fot Telegraf bot framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejnshtein/telegraf-esm.git"
+  },
+  "engines": {
+    "node": ">=13.5"
+  },
+  "type": "module",
+  "typings": "./typings/index.d.ts",
+  "keywords": [],
+  "author": "ejnshtein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejnshtein/telegraf-esm/issues"
+  },
+  "homepage": "https://github.com/ejnshtein/telegraf-esm#readme",
+  "dependencies": {
+    "telegraf": "^3.35.0"
+  }
+}
