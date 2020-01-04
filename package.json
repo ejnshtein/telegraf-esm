@@ -1,6 +1,6 @@
 {
   "name": "telegraf-esm",
-  "version": "1.0.0-b",
+  "version": "1.0.1",
   "description": "ESM wrapper fot Telegraf bot framework",
   "main": "index.js",
   "scripts": {},
