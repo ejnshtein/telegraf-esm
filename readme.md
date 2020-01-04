@@ -20,7 +20,7 @@ $ yarn add telegraf-esm
 ```js
 import Telegraf, { Telegram, Composer, ... } from 'telegraf-esm'
 
-// your beatiful esm code
+// your beautiful esm code
 ```
 
 Basically you can just replace `from 'telegraf'` with `from 'telegraf-esm'`.
